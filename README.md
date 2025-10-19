@@ -1,10 +1,24 @@
+<div align="center">
+
 # 📈 Multi Agent Financial Analysis System
 
 > A powerful AI-driven financial analysis platform powered by LangGraph, featuring 8 specialized agents for comprehensive stock market analysis.
 
+---
+
+**🎓 Academic Project Submission**  
+**University of San Diego**  
+**MS in Applied Artificial Intelligence**  
+**Natural Language Processing and GenAI (AAI-520-IN2)**  
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.7+-red.svg?style=for-the-badge&logo=pytorch)
+![LangChain](https://img.shields.io/badge/LangChain-0.3+-teal.svg?style=for-the-badge&logo=langchain)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg?style=for-the-badge&logo=docker)
+
+</div>
+
 
 ---
 
@@ -468,13 +482,9 @@ Built with the goal of democratizing access to professional-grade financial anal
 ## 📞 Support
 
 ### Documentation
-- [Quick Start Guide](#-quick-start)
-- [Deployment Guide](DEPLOYMENT.md)
 - [API Documentation](http://localhost:8000/docs) (when running FastAPI)
 
-### Community
-- 💬 [Discussions](https://github.com/YOUR_USERNAME/multi-agent-financial-analysis/discussions)
-- 🐛 [Issue Tracker](https://github.com/YOUR_USERNAME/multi-agent-financial-analysis/issues)
+
 
 ---
 
@@ -489,19 +499,61 @@ Built with the goal of democratizing access to professional-grade financial anal
 
 ---
 
-## 📊 Stats
+### 📞 Contact & Collaboration
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/multi-agent-financial-analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/multi-agent-financial-analysis?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/multi-agent-financial-analysis)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/multi-agent-financial-analysis)
+**Project Team - Group 2**
+
+🔹 **Sourangshu Pal** - Senior Visual Computing Engineer  
+📧 Email: spal@sandiego.edu  
+🔗 LinkedIn: sourangshu.pal  
+🐙 GitHub: [sourangshupal](https://github.com/sourangshupal)
+
+🔹 **Riyaz Khorasi** - Senior Data Scientist  
+📧 Email: rkhorasi@sandiego.edu 
+🔗 LinkedIn: riyazkhorasi  
+🐙 GitHub: [riyazkhorasi](https://github.com/Riyazmk1995)
+
+🔹 **Prashant Khare** - Lead AI Systems Architect 
+📧 Email: tanvisingh@sandiego.edu
+🔗 LinkedIn: tanvisingh  
+🐙 GitHub:  [https://github.com/tanvisingh-11](https://github.com/tanvisingh-11)
+
+**Academic Institution**  
+🎓 **University of San Diego**  
+📚 MS in Applied Artificial Intelligence Program  
+📖 Course: Introduction to Artificial Intelligence  
+👨‍🏫 Professor: [Ankur Bist]  
+📅 Academic Year: [2025]
+
+---
+
+### 🙏 Acknowledgments
+
+We extend our heartfelt gratitude to:
+
+- **University of San Diego Faculty**: For providing exceptional education and guidance in artificial intelligence
+- **Course Instructors**: For inspiring us to tackle meaningful challenges and push the boundaries of our knowledge
+- **Classmates & Peers**: For collaborative learning and mutual support throughout our academic journey
+- **Open Source Community**: For providing the foundational tools and libraries that made this project possible
 
 ---
 
 <div align="center">
 
-**Made with ❤️ using LangGraph and Streamlit**
+### 💖 Made with Love by Group 2
 
-[⬆ Back to Top](#-multi-agent-financial-analysis-system)
+**Sourangshu Pal • Riyaz Khorasi • Tanvi Singh**
+
+**University of San Diego | MS Applied Artificial Intelligence**
+
+**Natural Language Processing and GenAI (AAI-520-IN2) | 2025**
+
+---
+
+*"Advancing financial systems through artificial intelligence, one breakthrough at a time."*
+
+---
+
+⭐ **If this project inspires your work, please consider starring our repository!** ⭐
 
 </div>
