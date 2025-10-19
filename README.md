@@ -501,7 +501,7 @@ Built with the goal of democratizing access to professional-grade financial anal
 
 ### 📞 Contact & Collaboration
 
-**Project Team - Group 2**
+**Project Team - Group 4**
 
 🔹 **Sourangshu Pal** - Senior Visual Computing Engineer  
 📧 Email: spal@sandiego.edu  
@@ -540,7 +540,7 @@ We extend our heartfelt gratitude to:
 
 <div align="center">
 
-### 💖 Made with Love by Group 2
+### 💖 Made with Love by Group 4
 
 **Sourangshu Pal • Riyaz Khorasi • Tanvi Singh**
 
