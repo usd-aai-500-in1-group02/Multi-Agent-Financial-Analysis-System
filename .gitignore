@@ -47,8 +47,8 @@ env/
 .DS_Store
 
 # Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+#.ipynb_checkpoints
+#*.ipynb
 
 # Testing
 .pytest_cache/
@@ -84,7 +84,7 @@ data/
 *.png
 *.jpg
 *.jpeg
-*.pdf
+.pdf
 
 # Project specific markdown files
 DEPLOYMENT.md
