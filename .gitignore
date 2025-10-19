@@ -84,7 +84,6 @@ data/
 *.png
 *.jpg
 *.jpeg
-*.gif
 *.pdf
 
 # Project specific markdown files
