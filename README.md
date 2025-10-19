@@ -21,6 +21,11 @@
 
 
 ---
+## Webapp Demo
+
+![Webapp Demo](assets/demo.gif)
+
+---
 
 ## 🌟 Features
 
