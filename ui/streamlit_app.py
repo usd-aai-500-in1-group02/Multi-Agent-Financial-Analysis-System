@@ -16,7 +16,7 @@ from ui.components import single_stock, multi_stock, history
 
 # Page configuration
 st.set_page_config(
-    page_title="Financial Agent V3",
+    page_title="Multi Agent Financial Analysis System",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -32,7 +32,7 @@ def main():
 
     # Sidebar
     with st.sidebar:
-        st.title("📈 Financial Agent V3")
+        st.title("📈 Multi Agent Financial Analysis System")
         st.markdown("---")
 
         # Navigation
